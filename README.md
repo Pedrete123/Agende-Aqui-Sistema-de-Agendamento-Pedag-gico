@@ -13,9 +13,7 @@ Agende Aqui – Sistema de Agendamento Pedagógico
 
 ## 👨‍💻 Time de Desenvolvedores
 
-- [Seu Nome]
-- [Outros membros, se houver]
-
+Pedro Otávio da Silva Nunes
 ## 🎯 Objetivo do Software
 
 O sistema **Agende Aqui** tem como objetivo permitir que alunos, responsáveis e funcionários da escola agendem conversas pedagógicas com a diretora de forma organizada e segura, priorizando os assuntos mais urgentes com base nas descrições fornecidas no agendamento.
