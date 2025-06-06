@@ -11,14 +11,14 @@ Agende Aqui – Sistema de Agendamento Pedagógico
 - Git e GitHub (controle de versão)
 - NetBeans IDE
 
-## 👨‍💻 Time de Desenvolvedores
+## Time de Desenvolvedores
 
 Pedro Otávio da Silva Nunes
-## 🎯 Objetivo do Software
+##  Objetivo do Software
 
 O sistema **Agende Aqui** tem como objetivo permitir que alunos, responsáveis e funcionários da escola agendem conversas pedagógicas com a diretora de forma organizada e segura, priorizando os assuntos mais urgentes com base nas descrições fornecidas no agendamento.
 
-## 🔧 Funcionalidades do Sistema
+##  Funcionalidades do Sistema
 
 - Cadastro e login de usuários (alunos, responsáveis e funcionários)
 - Agendamento de horários com a diretora pedagógica
